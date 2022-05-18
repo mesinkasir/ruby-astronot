@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Astronot Ruby Starter 👩‍🚀
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/ruby-astronot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A starter ruby project for astronot css  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Documentation Installation : [https://www.hockeycomputindo.com/2022/05/cara-membuat-website-ruby-di-cpanel.html](https://www.hockeycomputindo.com/2022/05/cara-membuat-website-ruby-di-cpanel.html)
 
-### Markdown
+New unique css for build modern website and blog with fast.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![astronot css framework](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWG5tMgqg5YlnGPgRhyYsyQVSmuYzXROYgyrJEUlXU3l1QrCjdqP1m44ds400MnbKtz6YlNDgrTkT1G6nsHiJEgs-M3t2pYCisUpfudAKhuLnKB0tD1c7knr2wAr7mw3rbz60WqUa3wek4bHkN9sWYeIvC9minU3CgA_MpLTu_F4obxDw62vY_x3A2lQ/s1920/ASTRONOTCSS.jpg)
 
-```markdown
-Syntax highlighted code block
+Get started
 
-# Header 1
-## Header 2
-### Header 3
+insert this code on your template 
 
-- Bulleted
-- List
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/astronot/css/astronot.min.css"/>`
 
-1. Numbered
-2. List
+before `</head>`
 
-**Bold** and _Italic_ and `Code` text
+or run
 
-[Link](url) and ![Image](src)
-```
+`npm i astronot`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Visit now on [https://astronot.axcora.com →](https://astronot.axcora.com)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/ruby-astronot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
